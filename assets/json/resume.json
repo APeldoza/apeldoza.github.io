@@ -138,6 +138,30 @@
         "Python",
         "C++"
       ]
+    },
+    {
+      "name": "Data Analytics & ML",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Scikit-learn",
+        "Tensor-Flow",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Web Scraping",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Selenium",
+        "Selectolax",
+        "Requests",
+        "Scrapy",
+        "Beautiful Soup"
+      ]
     }
   ],
   "languages": [
